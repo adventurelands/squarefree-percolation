@@ -1,0 +1,1 @@
+[{"construction": "A", "p": 0.8205, "offset": 1000037, "L": 131072, "T": 1000000, "sim_seed": 8000, "shuffle_seed": 0}, {"construction": "A", "p": 0.8205, "offset": 10000101, "L": 131072, "T": 1000000, "sim_seed": 8001, "shuffle_seed": 0}, {"construction": "A", "p": 0.8205, "offset": 100012345, "L": 131072, "T": 1000000, "sim_seed": 8002, "shuffle_seed": 0}]
